@@ -1,0 +1,6 @@
+﻿  PerlinNoise.cpp
+C:\Users\OmarH\source\repos\PerlinNoise\PerlinNoise\olcConsoleGameEngine.h(759,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\OmarH\source\repos\PerlinNoise\PerlinNoise\olcConsoleGameEngine.h(1099,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\OmarH\source\repos\PerlinNoise\PerlinNoise\olcConsoleGameEngine.h(1196,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\OmarH\source\repos\PerlinNoise\PerlinNoise\PerlinNoise.cpp(44,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  PerlinNoise.vcxproj -> C:\Users\OmarH\source\repos\PerlinNoise\x64\Debug\PerlinNoise.exe
